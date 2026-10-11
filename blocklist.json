@@ -1,0 +1,274 @@
+{
+  "version": 1,
+  "note": "Чёрный список SakugaWave. Чтобы заблокировать тайтл — добавьте запись в blocked, чтобы РАЗБЛОКИРОВАТЬ — удалите её или поставьте \"enabled\": false. Приложение подхватывает изменения само, без обновления.",
+  "blocked": [
+    {
+      "title": "Death Note",
+      "aliases": [
+        "Тетрадь смерти"
+      ]
+    },
+    {
+      "title": "Inuyashiki",
+      "aliases": [
+        "Инуяшики"
+      ]
+    },
+    {
+      "title": "Tokyo Ghoul",
+      "aliases": [
+        "Токийский гуль"
+      ]
+    },
+    {
+      "title": "Elfen Lied",
+      "aliases": [
+        "Эльфийская песнь"
+      ]
+    },
+    {
+      "title": "Aki Sora",
+      "aliases": [
+        "Аки и Сора"
+      ]
+    },
+    {
+      "title": "Maoyuu Maou Yuusha",
+      "aliases": [
+        "Maoyu",
+        "Князь тьмы и герой"
+      ]
+    },
+    {
+      "title": "Ichiban Ushiro no Daimaou",
+      "aliases": [
+        "Князь тьмы с задней парты"
+      ]
+    },
+    {
+      "title": "Manyuu Hikenchou",
+      "aliases": [
+        "Клинок Маню",
+        "Клинок Маню: тайна сисечного свитка"
+      ]
+    },
+    {
+      "title": "Kuzu no Honkai",
+      "aliases": [
+        "Scum's Wish",
+        "Натюрморт в серых тонах"
+      ]
+    },
+    {
+      "title": "Why the Hell Are You Here, Teacher!?",
+      "aliases": [
+        "Nande Koko ni Sensei ga",
+        "Зачем вы здесь, учитель"
+      ]
+    },
+    {
+      "title": "Naruto",
+      "aliases": [
+        "Наруто"
+      ]
+    },
+    {
+      "title": "Zankyou no Terror",
+      "aliases": [
+        "Terror in Resonance",
+        "Эхо террора"
+      ]
+    },
+    {
+      "title": "Akuma no Riddle",
+      "aliases": [
+        "Riddle Story of Devil",
+        "Загадка дьявола"
+      ]
+    },
+    {
+      "title": "Ansatsu Kyoushitsu",
+      "aliases": [
+        "Assassination Classroom",
+        "Класс убийц"
+      ]
+    },
+    {
+      "title": "Ishuzoku Reviewers",
+      "aliases": [
+        "Interspecies Reviewers",
+        "Межвидовые рецензенты"
+      ]
+    },
+    {
+      "title": "In/Spectre",
+      "aliases": [
+        "Kyokou Suiri",
+        "Ложные выводы"
+      ]
+    },
+    {
+      "title": "Darwin's Game",
+      "aliases": [
+        "Игра Дарвина"
+      ]
+    },
+    {
+      "title": "Happy Sugar Life",
+      "aliases": [
+        "Сладкая жизнь",
+        "Счастливая сахарная жизнь"
+      ]
+    },
+    {
+      "title": "Fate/kaleid liner Prisma Illya",
+      "aliases": [
+        "Prisma Illya",
+        "kaleid liner"
+      ]
+    },
+    {
+      "title": "No Game No Life",
+      "aliases": [
+        "Нет игры, нет жизни"
+      ]
+    },
+    {
+      "title": "KonoSuba",
+      "aliases": [
+        "Kono Subarashii Sekai ni Shukufuku wo",
+        "Этот замечательный мир"
+      ]
+    },
+    {
+      "title": "That Time I Got Reincarnated as a Slime",
+      "aliases": [
+        "Tensei shitara Slime Datta Ken",
+        "В этот раз я перевоплотился в слизь",
+        "О моём перерождении в слизь"
+      ]
+    },
+    {
+      "title": "The Fruit of Grisaia",
+      "aliases": [
+        "Grisaia no Kajitsu",
+        "Grisaia",
+        "Грисайя"
+      ]
+    },
+    {
+      "title": "Princess Lover!",
+      "aliases": [
+        "Любовь принцесс"
+      ]
+    },
+    {
+      "title": "Nekopara",
+      "aliases": [
+        "НэкоПара"
+      ]
+    },
+    {
+      "title": "Zombie Land Saga",
+      "aliases": [
+        "Zombieland Saga",
+        "Зомби Land Saga"
+      ]
+    },
+    {
+      "title": "Attack on Titan",
+      "aliases": [
+        "Shingeki no Kyojin",
+        "Атака титанов"
+      ]
+    },
+    {
+      "title": "Akame ga Kill!",
+      "aliases": [
+        "Убийца Акаме"
+      ]
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "aliases": [
+        "Evangelion",
+        "Евангелион"
+      ]
+    },
+    {
+      "title": "Deadman Wonderland",
+      "aliases": [
+        "Страна чудес смертников"
+      ]
+    },
+    {
+      "title": "Hell Girl",
+      "aliases": [
+        "Jigoku Shoujo",
+        "Адская девочка"
+      ]
+    },
+    {
+      "title": "Corpse Party: Tortured Souls",
+      "aliases": [
+        "Corpse Party",
+        "Вечеринка мёртвых: Истязаемые души"
+      ]
+    },
+    {
+      "title": "Happy Tree Friends"
+    },
+    {
+      "title": "Akira",
+      "aliases": [
+        "Акира"
+      ],
+      "exact": true
+    },
+    {
+      "title": "Кошачий рай"
+    },
+    {
+      "title": "Любимчик принцесс"
+    },
+    {
+      "title": "О моём перерождении"
+    },
+    {
+      "title": "Zombieland",
+      "aliases": [
+        "Зомбилэнд"
+      ]
+    },
+    {
+      "title": "Dante's Inferno: An Animated Epic",
+      "aliases": [
+        "Ад Данте: Анимированный эпос"
+      ]
+    },
+    {
+      "title": "Mortal Kombat Legends: Scorpion's Revenge",
+      "aliases": [
+        "Легенды смертельной битвы: Месть Скорпиона"
+      ]
+    },
+    {
+      "title": "Dead Space: Downfall",
+      "aliases": [
+        "Космос: Территория смерти"
+      ]
+    },
+    {
+      "title": "Claymore",
+      "aliases": [
+        "Клеймор"
+      ]
+    },
+    {
+      "title": "Banana Fish",
+      "aliases": [
+        "Банановая рыба"
+      ]
+    }
+  ]
+}
